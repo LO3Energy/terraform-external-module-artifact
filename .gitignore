@@ -7,3 +7,4 @@ build-harness
 *.iml
 .viminfo
 .terraform.d
+*.zip
